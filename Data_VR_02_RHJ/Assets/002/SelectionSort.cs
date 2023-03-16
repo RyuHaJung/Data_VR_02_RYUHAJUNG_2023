@@ -62,7 +62,7 @@ public class SelectionSort : MonoBehaviour
                 LeanTween.moveLocalZ(unsortedList[i], -3, 0.5f).setLoopPingPong(1);
 
                 LeanTween.moveLocalX(unsortedList[min], tempPosition.x, 1);
-                LeanTween.moveLocalZ(unsortedList[i], 3, 0.5f).setLoopPingPong(1);
+                LeanTween.moveLocalZ(unsortedList[min], 3, 0.5f).setLoopPingPong(1);
             }
             LeanTween.color(unsortedList[i], Color.green, 1.0f);
         }
