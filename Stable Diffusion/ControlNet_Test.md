@@ -14,7 +14,8 @@ Negative prompt:
 
 Prompt: 
 > masterpiece, distinct, highres, purple eyes, purple hair , clothes Like the color of a white and pink butterfly's wings, Black clothes, pink lips
-: 
+
+Negative prompt:  
 > none
 ---
 Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2162355176, Size: 512x512, Model hash: 68c0a27380, Model: cetusMix_Coda2, ControlNet Enabled: True, ControlNet Preprocessor: scribble_pidinet, ControlNet Model: control_v11p_sd15_scribble [d4ba51ff], ControlNet Weight: 1, ControlNet Starting Step: 0, ControlNet Ending Step: 1, ControlNet Resize Mode: Crop and Resize, ControlNet Pixel Perfect: False, ControlNet Control Mode: Balanced, ControlNet Preprocessor Parameters: "(512, 64, 64)"
