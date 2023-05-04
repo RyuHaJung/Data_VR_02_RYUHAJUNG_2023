@@ -9,16 +9,16 @@
 <!-- Line -->
 
 ---
+
 <!-- Text Attributest -->
 
-+ 볼드 형식: **볼드**
-+ 이텔릭 형식: *이텔릭*
-+ 스트라이크쓰루: 스트라이크쓰루
++ 볼드 형식 : **볼드**
++ 이텔릭 형식 : *이텔릭*
++ 스트라이크쓰루 : ~~슬트라이크쓰루~~
 
 <!-- Quote -->
 
-> 마크다운 쿼트 테스트
-
+> 마크다운 쿼트 테스트 
 ---
 
 <!-- Bullet list -->
@@ -33,7 +33,7 @@
 3. 숫자 3
 
 <!-- Link -->
-Click [MY Git hub](https://github.com/RyuHaJung)
+Click [My Git hub](https://github.com/RyuHaJung)
 
 <!-- Image -->
 ![image](https://github.com/RyuHaJung/Data_VR_02_RYUHAJUNG_2023/blob/main/Stable%20Diffusion/00015-1837900809.png?raw=true)
@@ -49,18 +49,16 @@ Click [MY Git hub](https://github.com/RyuHaJung)
 |Cell1|Cell2|Cell1|
 
 <!-- Code -->
-debug console Sample 'Debug.Log("test")'
+debug console Sample `Debug.Log("test")`
 
-```c#
+```C#
 Debug.Log(Message);
 Debug.Log(Message);
 Debug.Log(Message);
 Debug.Log(Message);
-``---``
-
+```
 <!-- Git TodoList -->
 
--[x] #555
--[x] #556
--[x] #557
-
+- [x] #555
+- [ ] #556
+- [ ] #557
