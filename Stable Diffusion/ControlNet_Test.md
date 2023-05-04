@@ -29,4 +29,4 @@ Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2162355176, Size: 512x512, Mode
 <!-- Image -->
 ![image](https://github.com/RyuHaJung/Data_VR_02_RYUHAJUNG_2023/blob/main/Stable%20Diffusion/00000-3287757406.png?raw=true)
 
-
+>make hair red
