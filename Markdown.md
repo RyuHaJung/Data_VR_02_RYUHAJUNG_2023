@@ -51,12 +51,12 @@ Click [MY Git hub](https://github.com/RyuHaJung)
 <!-- Code -->
 debug console Sample 'Debug.Log("test")'
 
----c#
+```c#
 Debug.Log(Message);
 Debug.Log(Message);
 Debug.Log(Message);
 Debug.Log(Message);
----
+```
 
 <!-- Git TodoList -->
 
